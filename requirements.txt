@@ -1,0 +1,21 @@
+# AI 面试助手 - 依赖
+# 安装: pip install -r requirements.txt
+
+sounddevice>=0.4.6
+numpy>=1.24.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+keyboard>=0.13.5
+
+# 讯飞语音识别 (线上):
+websocket-client>=1.8.0
+
+# WASAPI loopback (录制系统声音, 面试场景):
+pyaudiowpatch>=0.2.12
+
+# 可选依赖 (按需安装)
+# 本地 Whisper 语音识别 (离线模式):
+faster-whisper>=1.0.0
+
+# 文字转语音:
+# pyttsx3>=2.90

@@ -1,0 +1,127 @@
+# 关福博 - 技术关键词表
+# 此文件用于语音识别后处理：当识别结果中包含左侧关键词的近似发音时，
+# 程序会模糊匹配并修正为正确术语，提高专业面试场景的识别准确率。
+
+# ========== MCU / 处理器平台 ==========
+STM32,STM三二,STM三2,四TM32
+STM32F103C8T6,STM32F103C8T六
+MSPM0G,MSPM零G,MSP M0G
+AURIX,奥瑞克斯,orix,aurix
+ARM,arm,阿姆
+英飞凌,英菲凌,英飞林
+TI,ti,替爱
+ESP32,ESP三二,ESP三2
+
+# ========== 外设 / 接口 ==========
+UART,uart,优art,you art
+IIC,I2C,I squared C,爱方C
+I2C,IIC,I squared C
+SPI,spi,S P I
+ADC,adc,A D C
+PWM,pwm,P W M
+GPIO,G P I O
+DMA,D M A
+定时器,定时气,定时七
+
+# ========== RTOS / 操作系统 ==========
+FreeRTOS,free RTOS,free r toss,福瑞RTOS
+实时操作系统,RTOS,rtos
+任务调度,任务吊度,任务条度
+中断管理,中断关里
+多任务,多人物
+
+# ========== GUI / 显示 ==========
+LVGL,lvgl,L V G L
+LCD,L C D
+OLED,O L E D
+串口屏,窗口屏
+显示屏,显示平
+
+# ========== 控制算法 ==========
+PID,pid,P I D,pid控制
+位置式PID,位置式pid
+增量式PID,增量式pid
+自适应PID,自适应pid
+PID控制,PID空制
+闭环控制,闭环空制
+传感器融合,传感器容和
+图像预处理,图像预处理,图像与处理
+二值化,二直化,二值画
+大津法,大金法,大津算法,otsu
+ROI,R O I,roi,感兴趣区域
+
+# ========== 视觉 / OpenMV ==========
+OpenMV,open MV,open mv,open M V
+机器视觉,及其视觉,机器视觉
+视觉识别,视觉是被
+靶心,把心
+同心圆,同新圆
+舵机,多机,堕机
+云台,云台,云抬
+激光瞄准,激光秒准
+
+# ========== 开发工具 ==========
+Keil,keil,凯尔,kale
+STM32CubeMX,STM32Cube MX,STM三二cube
+CLion,C Lion,clion,C lion
+CCS,C C S
+AURIX Development Studio
+VS Code,VS code,V S code
+嘉立创EDA,嘉立创EDA,加立创EDA,家里创EDA
+Altium Designer,altium designer,AD
+Proteus,proteus,proteus
+示波器,是波器,世博器
+逻辑分析仪,逻辑分析义
+万用表,外用表
+直流可调电源,可调电源
+
+# ========== 编程 / 构建 ==========
+C语言,C语言,西语言
+嵌入式,千入式,潜入式,籤入式
+交叉编译,交叉变译
+Makefile,make file,makefile
+CMake,C Make,cmake
+Shell脚本,shell脚本,show脚本
+Linux内核,linux内核
+设备树,设备树,设备数
+内核裁剪,内核才减
+SSH,S S H,ssh
+串口,窗口
+烧录,烧路
+
+# ========== 通信协议 ==========
+蓝牙,蓝牙
+WiFi,wifi,wi fi,WIFI
+CAN总线,can总线,CAN总线
+
+# ========== 硬件 / 电路 ==========
+PCB,P C B,pcb
+原理图,原里图
+元器件,元期间
+焊接,焊接,焊姐
+DC-DC,DC DC,dcdc
+H桥,H桥,aitch桥
+电源纹波,电源文波
+过流保护,过留保护
+欠压保护,欠压保护
+堵转保护,堵转保护
+
+# ========== 竞赛  ==========
+电子设计竞赛,电子设计比赛
+智能汽车竞赛,智能车竞赛
+嵌入式创新设计大赛,嵌入式大赛
+
+# ========== 通用技术 ==========
+面试官,面是官
+面试,面是
+架构,架够
+算法,算发
+驱动,趋动
+移植,一直,遗植
+调试,调是,吊试
+优化,优画
+模块,魔块
+传感器,传感器,传敢器
+电机,电击
+编码器,编码气
+滤波器,滤波气

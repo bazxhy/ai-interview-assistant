@@ -1,0 +1,33 @@
+# 构建产物
+dist/
+build/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 配置文件 (包含 API Key, 不上传)
+.env
+
+# 简历文件
+简历.pdf
+*简历*
+*resume*
+*cv*.pdf
+
+# 备份
+*backup*/
+*_backup_*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
